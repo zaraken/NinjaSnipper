@@ -11,4 +11,4 @@ What makes this a particularly good tool
 6. Activate it via keyboard shortcut. It is a deal breaker if you have to navigate to the app for every screenshot, when you are making a lot of them.
 7. Work on multiple monitors!
 
-More about the implementation on thecodeproject http://www.codeproject.com/Tips/409475/NinjaSnipper-Fast-Screenshot-Capturing-for-Windows
+More about the implementation and binaries can be found on the codeproject http://www.codeproject.com/Tips/409475/NinjaSnipper-Fast-Screenshot-Capturing-for-Windows
